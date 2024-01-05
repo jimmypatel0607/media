@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "name": "Myra",
+      "id": 1
+    },
+    {
+      "name": "Julia Quitzon",
+      "id": 2
+    }
+  ],
+  "albums": [
+    {
+      "id": 10,
+      "userId": 1,
+      "title": "Something"
+    },
+    {
+      "userId": 1,
+      "title": "Oriental Steel Computer",
+      "id": 11
+    },
+    {
+      "userId": 2,
+      "title": "Rustic Wooden Cheese",
+      "id": 12
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/150/150/abstract?lock=742704057155584",
+      "id": 11
+    },
+    {
+      "albumId": 11,
+      "url": "https://loremflickr.com/640/480?lock=192449337098240",
+      "id": 13
+    },
+    {
+      "albumId": 10,
+      "url": "https://loremflickr.com/640/480?lock=3667745354809344",
+      "id": 14
+    }
+  ]
+}
